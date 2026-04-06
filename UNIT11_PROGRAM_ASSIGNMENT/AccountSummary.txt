@@ -1,0 +1,19 @@
+============================================
+          ACCOUNT SUMMARY REPORT           
+============================================
+
+--- Checking Account ---
+Account Number  : 1001
+Balance         : $500.00
+Interest Rate   : 2.00%
+Minimum Balance : $300.00
+Service Charges : $25.00
+
+--- Savings Account ---
+Account Number  : 2001
+Balance         : $1000.00
+Interest Rate   : 3.00%
+
+============================================
+  Report generated on exit.
+============================================
